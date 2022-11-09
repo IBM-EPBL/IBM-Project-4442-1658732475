@@ -1,0 +1,10 @@
+Organization ID
+50ym2d
+Device Type
+NodeMCU
+Device ID
+12345
+Authentication Method
+use-token-auth
+Authentication Token
+123456789
